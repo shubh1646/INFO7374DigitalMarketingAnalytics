@@ -4,6 +4,8 @@
 
 **CLAAT LINK:**  https://docs.google.com/document/d/1glWtBM69mdFV27w7KXSFEnLpGg7eYs5rYgGPRy-Z2zc/edit?usp=sharing
 
+Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/INFO7374DigitalMarketingAnalytics/blob/master/Assignment%203%20part2/Data%20Flow.png)
+
 **Data** -  https://s3-eu-west-1.amazonaws.com/attribution-dataset/criteo_attribution_dataset.zip
 
 # **Steps**
@@ -15,6 +17,6 @@
  
 Python notebook will run on **google colab** with changes to data path and saving location.
 
-![GitHub Logo](/Data Flow.png)
+
 Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/INFO7374DigitalMarketingAnalytics/blob/master/Assignment%203%20part2/Data%20Flow.png)
 
