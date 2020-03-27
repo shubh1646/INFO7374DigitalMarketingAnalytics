@@ -2,7 +2,7 @@
 
 CLAAT LINK: https://docs.google.com/document/d/1YhxruOhYMKPvZIaQNR8p9lU8hPgkdl0Pw9i1vkARiQc/edit?usp=sharing
 
-Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/INFO7374DigitalMarketingAnalytics/blob/master/Assignment%203%20part2/Data%20Flow.png)
+Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/INFO7374DigitalMarketingAnalytics/blob/master/Assignment%204/image.JPG)
 
 
 # **Steps**
