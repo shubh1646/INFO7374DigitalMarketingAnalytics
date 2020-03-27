@@ -11,3 +11,7 @@ Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/INFO7374Dig
 3. Input the User ID and type of Snack and Login
 4. All set for the Snack now 
 
+## **Reference**
+
+1.https://github.com/microsoft/recommenders
+2.https://www.streamlit.io/
