@@ -1,4 +1,4 @@
-# INFO7374DigitalMarketingAnalytics
+# **INFO7374DigitalMarketingAnalytics**
 
 
 ## Team Information
@@ -13,6 +13,9 @@
 ## Claat Link
 https://docs.google.com/document/d/1jG9kTZjm1-TBjMZSOWQDPzePbXdTAlR-CGmoPzSfZd4/edit?usp=sharing
 
+# **Dashboard of Salesforce**
+
+Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/INFO7374DigitalMarketingAnalytics/blob/master/Assignment%202/Dashboard.png)
 
 ## Running Jupyter Notebook
  1. Create a folder in my drive with name ADM 
